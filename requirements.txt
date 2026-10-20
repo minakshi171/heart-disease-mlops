@@ -1,8 +1,8 @@
-pandas
 numpy
+pandas
 scikit-learn
 matplotlib
 seaborn
 ucimlrepo
-notebook
+joblib
 ipykernel
